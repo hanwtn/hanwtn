@@ -9,5 +9,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@hansdev.xyz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@hansdev.xyz)](mailto:me@hansdev.xyz)
 
 
-- 🌱 I’m currently learning React, Nuxt and Vue
+- 🌱 I’m currently learning CS
 - 📫 Reach me through Discord: hans_#4863
