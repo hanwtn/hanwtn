@@ -9,5 +9,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@hansdev.xyz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@hanwt.dev)](mailto:hello@hanwt.dev)
 
 
-- 🌱 I’m currently learning 3v3rYTHiNg
+- 🌱 I’m currently learning 3v3rYTHi.ng
 - 📫 Reach me through Discord: hans_#4863
