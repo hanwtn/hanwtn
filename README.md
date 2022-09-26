@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-hanwt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanwt/)](https://www.linkedin.com/in/hanwt/)
 [![Website Badge](https://img.shields.io/badge/-hanwt.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://hanwt.dev)](https://hanwt.dev)
-[![Instagram Badge](https://img.shields.io/badge/-@hwt.hans_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hwt.hans/)](https://instagram.com/hwt.hans)
+[![Instagram Badge](https://img.shields.io/badge/-@hanwtn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hanwtn/)](https://instagram.com/hanwtn)
 [![Gmail Badge](https://img.shields.io/badge/-hello@hanwt.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@hanwt.dev)](mailto:hello@hanwt.dev)
 
 
