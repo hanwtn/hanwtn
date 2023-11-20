@@ -1,13 +1,28 @@
-### Hi, I'm Hans 👋
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xhanwt&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhanwt&theme=dark&hide_border=true&layout=compact">
+# Hi there! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-hanwt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanwt/)](https://www.linkedin.com/in/hanwt/)
-[![Website Badge](https://img.shields.io/badge/-hanwt.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://hanwt.dev)](https://hanwt.dev)
-[![Instagram Badge](https://img.shields.io/badge/-@hanwtn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hanwtn/)](https://instagram.com/hanwtn)
-[![Gmail Badge](https://img.shields.io/badge/-hello@hanwt.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@hanwt.dev)](mailto:hello@hanwt.dev)
+I'm Han Tun (he/him), a student at Simon Fraser University.
 
+## 🔍 Interests
+- Visual and Interactive Computing
+- Interactive Arts and Design
+- UI/UX
+- AI/ML
 
-- 🌱 I’m currently learning three.js
-- 📫 Reach me through Discord: hans_#4863
+## 💻 Tech Stack
+🚀 C++ | JavaScript | Tailwind | React | React Native | Node.js | Vue | Three.js | WebGL | OpenGL | MongoDB | Discord
+
+## 📸 Hobbies
+📷 Photography | 🎬 Films
+
+## 🌐 Connect with Me
+- Instagram: [@yourhandle](https://www.instagram.com/yourhandle/)
+- Discord: YourUsername#1234
+- Email: your.email@example.com
+- Website: [yourwebsite.com](https://www.yourwebsite.com)
+
+## 🎉 Fun Fact
+Did you know that...
+
+## 🚀 Let's Collaborate and Create!
+
+![Minimalist Animation/GIF](link_to_animation_or_gif.gif)
