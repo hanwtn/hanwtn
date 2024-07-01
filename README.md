@@ -8,7 +8,9 @@
 
 </td></tr></table>  
 <div align="center">
-![Static Badge](https://img.shields.io/badge/Labs?link=https%3A%2F%2Fhwt.sh%2Flabs)
+<a href="https://hwt.sh/labs" target="_blank">
+<img src=https://img.shields.io/badge/Labs-8A2BE2 alt=Labs style="margin-bottom: 5px;" />
+</a>
 
   
 <a href="https://linkedin.com/in/hanwt" target="_blank">
