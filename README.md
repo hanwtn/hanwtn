@@ -19,10 +19,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/xhanwt" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=xhanwt&&style=flat-square" align="center" />
-</a>
 </div>
 
 
