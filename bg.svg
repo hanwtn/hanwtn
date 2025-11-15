@@ -1,39 +1,39 @@
-<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- GitHub-safe animated gradient -->
+<svg width="100%" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad">
       <stop offset="0%" stop-color="#0d0d0d">
         <animate attributeName="stop-color"
-                 values="#0d0d0d; #1a1a1a; #0d0d0d"
-                 dur="10s" repeatCount="indefinite" />
+          values="#0d0d0d; #1a1a1a; #0d0d0d"
+          dur="8s"
+          repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#1a1a1a">
         <animate attributeName="stop-color"
-                 values="#1a1a1a; #000; #1a1a1a"
-                 dur="10s" repeatCount="indefinite" />
+          values="#1a1a1a; #000000; #1a1a1a"
+          dur="8s"
+          repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
 
-  <!-- Background -->
   <rect width="100%" height="100%" fill="url(#grad)" />
 
-  <!-- Swiss grid (safe strokes only) -->
-  <g stroke="#ffffff12" stroke-width="0.5">
-    <!-- vertical lines -->
-    <line x1="50" x2="50" y1="0" y2="260" />
-    <line x1="100" x2="100" y1="0" y2="260" />
-    <line x1="150" x2="150" y1="0" y2="260" />
-    <line x1="200" x2="200" y1="0" y2="260" />
-    <line x1="250" x2="250" y1="0" y2="260" />
-    <line x1="300" x2="300" y1="0" y2="260" />
-    <line x1="350" x2="350" y1="0" y2="260" />
-    <line x1="400" x2="400" y1="0" y2="260" />
-    <line x1="450" x2="450" y1="0" y2="260" />
-    <line x1="500" x2="500" y1="0" y2="260" />
-    <line x1="550" x2="550" y1="0" y2="260" />
-    <line x1="600" x2="600" y1="0" y2="260" />
-    <line x1="650" x2="650" y1="0" y2="260" />
-    <line x1="700" x2="700" y1="0" y2="260" />
-    <line x1="750" x2="750
+  <!-- Safe Swiss grid -->
+  <g stroke="#ffffff10" stroke-width="0.4">
+    <!-- vertical -->
+    <line x1="100" x2="100" y1="0" y2="150" />
+    <line x1="200" x2="200" y1="0" y2="150" />
+    <line x1="300" x2="300" y1="0" y2="150" />
+    <line x1="400" x2="400" y1="0" y2="150" />
+    <line x1="500" x2="500" y1="0" y2="150" />
+    <line x1="600" x2="600" y1="0" y2="150" />
+    <line x1="700" x2="700" y1="0" y2="150" />
+    <line x1="800" x2="800" y1="0" y2="150" />
+    <line x1="900" x2="900" y1="0" y2="150" />
+
+    <!-- horizontal -->
+    <line x1="0" x2="1000" y1="50" y2="50" />
+    <line x1="0" x2="1000" y1="100" y2="100" />
+  </g>
+
+</svg>
