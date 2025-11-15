@@ -1,11 +1,11 @@
 <svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Animated gradient -->
+  <!-- GitHub-safe animated gradient -->
   <defs>
     <linearGradient id="grad">
-      <stop offset="0%" stop-color="#0a0a0a">
+      <stop offset="0%" stop-color="#0d0d0d">
         <animate attributeName="stop-color"
-                 values="#0a0a0a; #1a1a1a; #0a0a0a"
+                 values="#0d0d0d; #1a1a1a; #0d0d0d"
                  dur="10s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#1a1a1a">
@@ -14,23 +14,13 @@
                  dur="10s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
-
-    <!-- Apple glass blur -->
-    <filter id="glass" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="22" result="blur" />
-      <feColorMatrix type="matrix"
-        values="1 0 0 0 0
-                0 1 0 0 0
-                0 0 1 0 0
-                0 0 0 0.26 0" />
-    </filter>
   </defs>
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="url(#grad)" />
 
-  <!-- Dense Swiss grid -->
-  <g stroke="#ffffff10" stroke-width="0.5">
+  <!-- Swiss grid (safe strokes only) -->
+  <g stroke="#ffffff12" stroke-width="0.5">
     <!-- vertical lines -->
     <line x1="50" x2="50" y1="0" y2="260" />
     <line x1="100" x2="100" y1="0" y2="260" />
@@ -46,47 +36,4 @@
     <line x1="600" x2="600" y1="0" y2="260" />
     <line x1="650" x2="650" y1="0" y2="260" />
     <line x1="700" x2="700" y1="0" y2="260" />
-    <line x1="750" x2="750" y1="0" y2="260" />
-    <line x1="800" x2="800" y1="0" y2="260" />
-    <line x1="850" x2="850" y1="0" y2="260" />
-    <line x1="900" x2="900" y1="0" y2="260" />
-    <line x1="950" x2="950" y1="0" y2="260" />
-
-    <!-- horizontal lines -->
-    <line x1="0" x2="1000" y1="50" y2="50" />
-    <line x1="0" x2="1000" y1="100" y2="100" />
-    <line x1="0" x2="1000" y1="150" y2="150" />
-    <line x1="0" x2="1000" y1="200" y2="200" />
-  </g>
-
-  <!-- Apple liquid-glass blob -->
-  <ellipse cx="760" cy="140" rx="260" ry="75"
-    fill="#ffffff15"
-    filter="url(#glass)" />
-
-  <!-- TEXT (Manrope-style fallback stack) -->
-  <text x="80" y="105"
-        font-family="Manrope, Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
-        font-size="40"
-        font-weight="600"
-        fill="#ffffff">
-    Hey, I'm Han 👋
-  </text>
-
-  <text x="80" y="150"
-        font-family="Manrope, Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
-        font-size="22"
-        font-weight="400"
-        fill="#ffffffbb">
-    Developer & Designer
-  </text>
-
-  <text x="80" y="185"
-        font-family="Manrope, Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
-        font-size="20"
-        font-weight="300"
-        fill="#ffffff77">
-    han@hwt.sh
-  </text>
-
-</svg>
+    <line x1="750" x2="750
